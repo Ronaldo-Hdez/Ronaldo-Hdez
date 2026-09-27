@@ -1,82 +1,123 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ronaldo%20Hernandez&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Software%20Development%20Student&descAlignY=55&animation=fadeIn" />
-</div>
 
-<h1 align="center">Hi 👋, I'm Ronaldo Hernandez</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:0f2027,50:203a43,100:2c5364" width="100%" />
 
-<p align="center">
-  Software Development Student from Mexico 🇲🇽 <br>
-  Java • Kotlin • C# • SQL • Linux
-</p>
+  <h1>Hi 👋, I'm Ronaldo Hernandez</h1>
 
----
+  <p>
+    Software Development Student • Java • Kotlin • C# • SQL • Linux
+  </p>
 
-## 👨‍💻 About me
+  <br>
 
-- 🎓 Software Development student
-- 💻 Interested in desktop, mobile and web development
-- 🐧 Linux enthusiast
-- 📚 Currently learning Data Structures, Android Development and Software Architecture
-- 🚀 Building projects with Java, Kotlin, C#, MySQL and Web technologies
+  <h2>👨‍💻 About me</h2>
 
----
+  <p>
+    🎓 Software Development student<br>
+    💻 Interested in desktop, mobile and web development<br>
+    🐧 Linux enthusiast<br>
+    📚 Currently learning Data Structures, Android Development and Software Architecture<br>
+    🚀 Building projects with Java, Kotlin, C#, MySQL and Web technologies
+  </p>
 
-## 🛠 Technologies
+  <br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-</div>
+  <h2>🛠 Technologies</h2>
 
----
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="Kotlin" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+  </p>
 
-## 📌 Featured Projects
+  <br>
 
-- 🏥 **MediDate** – Medical appointment management system
-- 📦 **Inventory Management System** – Java-based inventory control project
-- 📱 **Android Apps** – Kotlin practice and mobile development projects
+  <h2>📌 Featured Projects</h2>
 
----
+  <p>
+    🏥 <b>MediDate</b> — Medical appointment management system<br><br>
+    📦 <b>Inventory Management System</b> — Java inventory control project<br><br>
+    📱 <b>Android Apps</b> — Kotlin and mobile development projects
+  </p>
 
-## 📊 GitHub Stats
+  <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronaldo-Hdez&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo-Hdez&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
+  <h2>📊 GitHub Stats</h2>
 
----
+  <p>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ronaldo-Hdez&show_icons=true&theme=tokyonight&hide_border=true"
+      height="165"
+      alt="GitHub stats"
+    />
 
-## 🌐 Connect with me
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo-Hdez&layout=compact&theme=tokyonight&hide_border=true"
+      height="165"
+      alt="Top languages"
+    />
+  </p>
 
-<div align="left">
-  <a href="TU_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="TU_YOUTUBE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-</div>
+  <br>
 
----
+  <h2>🐧 Linux</h2>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ronaldo-Hdez.Ronaldo-Hdez" />
-</div>
+  <img
+    src="./assets/linux-banner.png"
+    width="850"
+    alt="Linux Banner"
+  />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+  <br><br>
+
+  <h2>🌐 Socials</h2>
+
+  <p>
+    <a href="TU_LINKEDIN">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+        width="52"
+        height="40"
+        alt="LinkedIn"
+      />
+    </a>
+
+    &nbsp;&nbsp;
+
+    <a href="TU_YOUTUBE">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+        width="52"
+        height="40"
+        alt="YouTube"
+      />
+    </a>
+  </p>
+
+  <br>
+
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=Ronaldo-Hdez.Ronaldo-Hdez"
+    alt="Visitors"
+  />
+
+  <br><br>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364"
+    width="100%"
+  />
+
 </div>
